@@ -6,17 +6,24 @@ const TAU = PI * 2;
 let booleanoAnd = (booleano1 && booleano2);
 let booleanoNot = !booleano1;
 let booleanoMix0 = (booleano1 || booleano2) && (booleano1 || (!booleano1 && !booleano2));
+
+let contarHasta10_2 = 0
+for (i = 1; i != 10; i++) {
+  }
+
 let incrementarDesp = 2
 let resultadoDesp = incrementarDesp++
 let incrementarAntes = 2
 let resultadoAntes = ++incrementarAntes
-// falta la 10
 let postI = 0
 let postJ = 0
 for (let i = 0; i <= 11; i++) {
 }
 postI += postJ++
-// falta la 12
+
+let sumaPares = 0
+
+
 let variableValorNumerico = 3;
 const MiNombre = 'tu nombre';
 const MiNumeroFav = 7;
@@ -29,6 +36,10 @@ let valorResta = (MiNumeroFav - variableValorNumerico);
 let valorMultiplicacion = (MiNumeroFav * variableValorNumerico);
 let valorDivision = (MiNumeroFav / 3);
 
+let = contarHasta10 = 0
 
-
-// faltan tres ultimas
+let preI = 0
+let preJ = 0
+for (let i = 0; i <= 11; ++i) {
+}
+preI += ++preJ
